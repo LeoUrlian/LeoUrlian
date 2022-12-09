@@ -1,4 +1,4 @@
-## Hi there, I'm Leonardo! 👋
+## Hi there 👋, I'm Leonardo!
 
 <a href="https://github.com/LeoUrlian">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoUrlian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
