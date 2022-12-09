@@ -38,3 +38,9 @@
   <a href="mailto:leourlian@hotmail.com
 "><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+
+## Certifications
+
+<div>
+<a title="AWS Certified Cloud Practitioner" href="https://www.credly.com/badges/4c4870ef-04e9-4d19-89ca-c74e81d42fea?source=linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
+</div>
