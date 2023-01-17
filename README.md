@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Leonardo!
 
 <a href="https://github.com/LeoUrlian">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoUrlian&theme=dark&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoUrlian&theme=dark&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoUrlian&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ## Technologies
