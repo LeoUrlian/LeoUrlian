@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Leonardo!
 
 <a href="https://github.com/LeoUrlian">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoUrlian&theme=tokyonight&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoUrlian&theme=tokyonight&layout=compact"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=LeoUrlian&theme=tokyonight&show_icons=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LeoUrlian&theme=tokyonight&layout=compact"/>
 
 ## Technologies
 
